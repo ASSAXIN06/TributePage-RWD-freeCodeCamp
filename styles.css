@@ -7,9 +7,34 @@ img{
     margin: 0 auto;
     max-width: 100%;
     height: auto;
+    border-radius: 5px;
 }
 
 #main{
+    margin: 30px 8px;
     background-color: #eee;
-    
+    border-radius: 5px;
+}
+
+.title{
+    padding-bottom: 15px;
+}
+
+.title h1{
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    padding-bottom: 0;
+}
+
+.title p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+
+#image-caption{
+    font-size: 15px;
+    margin-top: 10px;
 }
